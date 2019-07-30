@@ -1,3 +1,3 @@
 # CSN-361-Assignments
 
-Assignment 1 Problem statement [link](/Assignment-1/prob_statement.pdf) 
+Assignment 1 Problem statement [link](https://github.com/aagarwal1012/CSN-361-Assignments/blob/master/Assignment%201/prob_statement.pdf) 
