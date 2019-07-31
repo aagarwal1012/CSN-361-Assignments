@@ -1,7 +1,8 @@
-/*
- * Name - Ayush Agarwal
- * ENo. - 17114017
- */
+/** @file prob4.cpp
+ *  @brief Problem Statement 4 : Get the host name and the IP address of your computer.
+ *  @author Ayush Agarwal, 17114017
+ *  @date July 2019
+    */
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

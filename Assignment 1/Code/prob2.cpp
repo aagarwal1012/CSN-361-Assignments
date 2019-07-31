@@ -1,7 +1,9 @@
-/*
- * Name - Ayush Agarwal
- * ENo. - 17114017
- */
+/** @file prob2.cpp
+ *  @brief Problem Statement 2 : Print mac address of computer.
+ *
+ *  @author Ayush Agarwal, 17114017
+ *  @date July 2019
+    */
 #include <sys/socket.h>
 #include <sys/ioctl.h>
 #include <linux/if.h>

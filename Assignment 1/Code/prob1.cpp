@@ -1,7 +1,9 @@
-/*
- * Name - Ayush Agarwal
- * ENo. - 17114017
- */
+/** @file prob1.cpp
+ *  @brief Problem Statement 1 : Prints process_ids of created child and grandchild processes.
+ *
+ *  @author Ayush Agarwal, 17114017
+ *  @date July 2019
+    */
 #include <stdio.h>
 #include <unistd.h>
 

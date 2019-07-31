@@ -1,7 +1,9 @@
-/*
- * Name - Ayush Agarwal
- * ENo. - 17114017
- */
+/** @file prob3.cpp
+ *  @brief Problem Statement 3 : Ping a server.
+ *
+ *  @author Ayush Agarwal, 17114017
+ *  @date July 2019
+    */
 #include <stdio.h>
 #include <stdlib.h>
 #include <arpa/inet.h>
